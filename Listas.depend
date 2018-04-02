@@ -4,10 +4,43 @@
 	<stdio.h>
 	"herois.h"
 
-1522243527 c:\utfpr\ed1\aula 3 - listas\listas\herois.h
+1522604757 c:\utfpr\ed1\aula 3 - listas\listas\herois.h
 	<iostream>
 	<string>
+	<conio.h>
+	<ctype.h>
 
-1522350077 source:c:\utfpr\ed1\aula 3 - listas\listas\herois.cpp
+1522592772 source:c:\utfpr\ed1\aula 3 - listas\listas\herois.cpp
 	"herois.h"
+	<conio.h>
+
+1522608854 source:c:\utfpr\ed1\aula 3 - listas\listasianca\herois.cpp
+	"herois.h"
+	<conio.h>
+
+1522604757 c:\utfpr\ed1\aula 3 - listas\listasianca\herois.h
+	<iostream>
+	<string>
+	<conio.h>
+	<ctype.h>
+
+1522161045 source:c:\utfpr\ed1\aula 3 - listas\listasianca\main.cpp
+	<iostream>
+	<stdio.h>
+	"herois.h"
+
+1522161045 source:c:\utfpr\ed1\aula 3 - listas\listasiancapronto\main.cpp
+	<iostream>
+	<stdio.h>
+	"herois.h"
+
+1522604757 c:\utfpr\ed1\aula 3 - listas\listasiancapronto\herois.h
+	<iostream>
+	<string>
+	<conio.h>
+	<ctype.h>
+
+1522666433 source:c:\utfpr\ed1\aula 3 - listas\listasiancapronto\herois.cpp
+	"herois.h"
+	<conio.h>
 

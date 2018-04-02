@@ -3,6 +3,8 @@
 #include <iostream>
 #include <string>
 using namespace std;
+#include <conio.h>
+#include <ctype.h>
 
 struct node
 {
